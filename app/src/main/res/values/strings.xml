@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">homework7_dynamicFields</string>
+    <string name="numeric">Numeric</string>
+    <string name="add_field">add field</string>
+    <string name="enter_field_name">Enter field name</string>
+    <string name="remove_last_field">remove last field</string>
+</resources>
